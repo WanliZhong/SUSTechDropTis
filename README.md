@@ -1,3 +1,5 @@
+# 懒得开发了，卒
+
 <div align=center><img width="500" src="src/assets/LOGO.png"/></div>
 
 这是一个为南科大教务系统 [tis.sustech.edu.cn](https://tis.sustech.edu.cn) 而开发的拓展工具。
